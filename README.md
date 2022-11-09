@@ -1,4 +1,4 @@
--  Hi, I’m @ErkutAtes
+-  Hi, I’m Erkut Ateş
 -  I’m interested inSoftware development
 -  I’m currently learning Java and OOP
 -  E-mail :erkutates54@gmail.com
