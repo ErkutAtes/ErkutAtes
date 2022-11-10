@@ -1,8 +1,8 @@
 -  Hi, I’m Erkut Ateş
--  I’m interested inSoftware development
+-  I’m interested in Software development
 -  I’m currently learning Java and OOP
--  E-mail :erkutates54@gmail.com
--  LinkedIn :https://www.linkedin.com/in/erkut-ates/
+-  E-mail: erkutates54@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/erkut-ates/
 
 <!---
 ErkutAtes/ErkutAtes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
