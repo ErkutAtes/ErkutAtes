@@ -1,4 +1,4 @@
--  Hi, I’m Erkut Ateş
+😊  Hi, I’m Erkut Ateş
 -  I’m interested in Software development
 -  I’m currently learning Java and OOP
 -  Under the I'm learning repository you can access the projects I'm currently working on.
