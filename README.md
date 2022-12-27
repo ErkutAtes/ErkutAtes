@@ -1,4 +1,4 @@
-🌍  Hi, I’m Erkut Ateş  
+🌍  Hi, I'm Erkut Ateş, I am an electrical and electronics engineer.  I have a strong and quiet interest in software development. I am aiming for a career in this field
 💻 I’m interested in Software development  
 💻  I’m currently learning Java and OOP  
 ⌨️  Under the I'm learning repository you can access the projects I'm currently working on.  
